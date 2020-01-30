@@ -493,9 +493,9 @@ footer > p {
   margin-left: 58.33333%;
 }
 
-.row > .col-8 {
+/* .row > .col-8 {
   width: 66.66667%;
-}
+} */
 
 .row > .off-8 {
   margin-left: 66.66667%;
@@ -1800,7 +1800,8 @@ button,
   box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.5),
     inset 0px 2px 1px 0px rgba(255, 255, 255, 0.75);
   background-color: #61dbfb;
-  padding: 1em 2.35em 1em 2.35em;
+  /* padding: 1em 2.35em 1em 2.35em; */
+  width: 19rem;
   font-size: 1.1em;
   max-width: 24em;
 }
